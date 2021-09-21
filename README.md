@@ -1,1 +1,2 @@
-# jp-python-chat-azure
+# Dependencies
+to install socketio: `pip3 install flask-socketio`
