@@ -1,2 +1,2 @@
-# Dependencies
-to install socketio: `pip3 install flask-socketio`
+# Forking project:
+https://github.com/FaztWeb/flask-socket.io-simple-chat 
